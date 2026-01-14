@@ -1,0 +1,19 @@
+# Python
+.DS_Store
+
+__pycache__/
+*.pyc
+.venv/
+
+# Data & outputs (do NOT push)
+datasets/
+data/
+outputs/
+outputs_normal/
+outputs_anomaly/
+results/
+
+# Large / generated files
+*.ckpt
+*.zip
+
