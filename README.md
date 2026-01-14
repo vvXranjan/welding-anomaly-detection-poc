@@ -31,4 +31,10 @@ Weld Image → Preprocessing → PatchCore → Anomaly Score + Heatmap → Decis
 - Real-time camera integration
 - MLOps deployment
 - Dashboard & BI integration
+## Demo Results
+### Normal (Clean)
+![Normal](demo_pack/final/normal_clean.jpg)
+
+### Anomaly (High Confidence)
+![Anomaly](demo_pack/final/anomaly_high_confidence.jpg)
 
